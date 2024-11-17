@@ -42,17 +42,17 @@ function App() {
             data-aos="fade-right"
             data-aos-duration="1000"
           >
-            Masih bingung mau kasih caption apa wkwkw
+            Happy Birthday Sweetests Girl I've Ever Seen
           </h1>
           <p
             className="text-sm lg:text-base lg:w-[40%]"
             data-aos="fade-right"
             data-aos-duration="1200"
           >
-            masih aku pikirkan mau isi apa
+            Semoga hal baik selalu beriringan denganmu, Semoga semesta senantiasa berpihak padamu, Semoga jalanmu untuk mencapai masa depan yang cerah dipermudahkan, teruslah bertumbuh, teruslah melangkah & berbahagialah. Aku akan selalu bangga atas setiap proses yang sudah kamu lalui. I Will Always Support U From Afar
           </p>
           <p data-aos="fade-right" data-aos-duration="1300">
-            Click "Play" to see Details
+            Teken "Play" ini yaww
           </p>
           <div
             className="actions flex items-center gap-3"
@@ -91,15 +91,18 @@ function App() {
           <div className="absolute inset-0 bg-gradient-to-t from-black" />
         </div>
         <div className="flex flex-col gap-3 lg:gap-5 p-5 text-white">
-          <h1 className="font-bold text-2xl">Happy Birthday, You </h1>
-          <p>Hi You...</p>
+          <h1 className="font-bold text-2xl">Happy Birthday, Ellyaa Maniezz </h1>
+          <p>Hi Ellyaa </p>
           <p>
-            masih aku pikirkan kata2 yang baru wkwkw
+            Wishing You a Birthday Filled With Love, Fun, and Surprises!!!
+            Jujur aku bingung mau ngomong apalagi. tapi yang bisa aku sampaikan ke kamu, jangan suka mendam semuanya sendirian, tetaplah jadi Ellyaa yang Lucu, Humoris, Lemah Lembut, Murah Senyum, dan Baik Hati. Dan satu lagi, Kalau dunia ga baik sama kamuu, kamuu harus baik sama diri kamu sendiri yaww!!! 
+            Terimakasih juga atas semua kebaikan yang telah kamu tunjukkan kepadaku, aku sangat senang telah mengenal kamu dan aku berharap kita bisa tetap saling komunikasi seperti biasa. Maaf ya kalau aku nyebelin dan suka jahil hehehe, abis aku tuh suka lihat reaksi kamu pas di jailin
+            pokok nya, hobby aku tuh ngacau kau lahh WKWKWKWKWKWK. 
           </p>
           <p>
-            With all my love,
+            With all my love, I Love You In Every Universe
             <br />
-            L.A.
+            L.A. alias Mas Capil
           </p>
         </div>
       </Modal>
